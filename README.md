@@ -22,7 +22,7 @@ A visualização de funções matemáticas é crucial para a compreensão de div
 1. **Função Linear:** `f(x) = ax + b` - Base para modelos de regressão linear, amplamente utilizados em previsões e análise de dados.
 2. **Função Quadrática:** `f(x) = ax^2 + bx + c` - Representa relações não lineares entre variáveis e é útil em problemas de otimização.
 3. **Função Exponencial:** `f(x) = a * e^(bx)` - Descreve crescimento e decaimento exponencial, importante para modelar fenômenos em diversas áreas, como finanças e biologia.
-4. **Função Senoidal:** `f(x) = a * sen(bx)` e **Função Cosseno:** `f(x) = a * cos(bx)` -  Fundamentais para análise de séries temporais, processamento de sinais e modelagem de dados cíclicos.
+4. **Função Senoidal:** `f(x) = a * sen(bx)` -  Fundamentais para análise de séries temporais, processamento de sinais e modelagem de dados cíclicos.
 5. **Função Cosseno:** `f(x) = a * cos(bx)` - Similar à função seno, também é fundamental para análise de séries temporais, processamento de sinais e modelagem de dados cíclicos, representando a componente em fase em relação à função seno.
 6. **Comparação Seno e Cosseno:**  - Ilustra a relação entre as funções seno e cosseno, facilitando a compreensão de suas propriedades e aplicações.
 7. **Função Tangente:** `f(x) = tan(x)` - Importante em trigonometria e cálculo, com aplicações em áreas como física e engenharia.
